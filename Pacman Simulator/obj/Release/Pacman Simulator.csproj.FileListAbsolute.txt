@@ -1,0 +1,8 @@
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\bin\Release\Pacman Simulator.exe
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\bin\Release\Pacman Simulator.pdb
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman_Simulator.play.resources
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman_Simulator.Properties.Resources.resources
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman Simulator.csproj.GenerateResource.Cache
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman Simulator.exe
+C:\Users\Trigenite\Desktop\tools\pacman\Zixi\Pacman Simulator\obj\Release\Pacman Simulator.pdb
